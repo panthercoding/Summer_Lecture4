@@ -1,0 +1,9 @@
+Name: 
+
+WRITE UP QUESTION
+##################################
+How could this search algorithm for gathering songs from words be generally improved
+(you don't have to implement in Python the changes)?
+What other features or designs or interfacing could be added to make it more useful for a client?
+
+Answer here: 
